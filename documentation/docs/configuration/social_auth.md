@@ -10,6 +10,7 @@ The steps for each service varies so please refer to the specific service's docu
 - [GitHub](social_auth/github.md)
 - [Open ID Connect](social_auth/oidc.md)
 - [Authelia](https://www.authelia.com/integration/openid-connect/adventure-log/)
+- [Pocket-ID](social_auth/pocket-id.md)
 
 ## Linking Existing Accounts
 
